@@ -126,10 +126,10 @@
 				"layout": "NewEnumerator0",
 				"panel1":
 				{
-					"title": "WELCOME TO ARAS\r\n",
-					"titlejustification": "Left",
-					"text": "Please join Aras on Discord: <TS.Roboto.15.Blue>https://bit.ly/arasark</>\r\n\r\n\r\n\r\n\r\n<TS.Roboto.15.Orange>ENTRANCES TO THE UNDERWORLD CAVE MAY NOT BE BLOCKED OR BUILT IN. ANY STRUCTURES WILL BE REMOVED. Thank you for your cooperation.</>",
-					"textjustification": "Left",
+					"title": "WELCOME TO ARAS THE CENTER\r\n\r\n\r\nCurrent active event(s): none. \r\n\r\nThe flag safe color for June is <TS.Roboto.15.Blue>Blue</>.\r\n\r\nJoin Discord for more information and event announcements: <TS.Roboto.15.Blue>https://bit.ly/arasark</>.",
+					"titlejustification": "Center",
+					"text": "\r\n\r\n\r\n<TS.Roboto.15.Orange>ENTRANCES TO THE UNDERWORLD CAVE MAY NOT BE BLOCKED OR BUILT IN. ANY STRUCTURES WILL BE REMOVED. Thank you for your cooperation.</>",
+					"textjustification": "Center",
 					"backgroundcolor":
 					{
 						"r": 0,
@@ -1300,7 +1300,7 @@
 			"position": "NewEnumerator3",
 			"iconmarginx": 73.896690368652344,
 			"iconmarginy": 54.180839538574219,
-			"iconopacity": 0.10173939168453217,
+			"iconopacity": 0.19853170216083527,
 			"customtextopacity": 0,
 			"customtexthorizontalalignment": "HAlign_Left",
 			"customtextverticalalignment": "VAlign_Center",
@@ -1310,7 +1310,7 @@
 		{
 			"onplayerlogon": true,
 			"fornewplayersonly": false,
-			"onnextplayerlogonversion": 3
+			"onnextplayerlogonversion": 4
 		},
 		"miscsettings":
 		{
