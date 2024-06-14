@@ -123,7 +123,7 @@
 					}
 				},
 				"panelspacing": 10,
-				"layout": "NewEnumerator4",
+				"layout": "NewEnumerator0",
 				"panel1":
 				{
 					"title": "",
@@ -138,7 +138,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/LeftPanel_513w592h.png?raw=true"
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/welcome.png?raw=true"
 				},
 				"panel2":
 				{
@@ -154,7 +154,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/MiddlePanel_513w592h.png?raw=true"
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/MiddlePanel.png?raw=true"
 				},
 				"panel3":
 				{
@@ -170,7 +170,7 @@
 						"a": 0.7019609808921814
 					},
 					"usecustombackgroundimage": true,
-					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/RightPanel_513w592h.png?raw=true"
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/RightPanel.png?raw=true"
 				},
 				"panel4":
 				{
@@ -318,12 +318,12 @@
 					}
 				},
 				"panelspacing": 10,
-				"layout": "NewEnumerator4",
+				"layout": "NewEnumerator0",
 				"panel1":
 				{
-					"title": "Taming/breeding/hatching settings",
+					"title": "",
 					"titlejustification": "Left",
-					"text": "TamingSpeedMultiplier=2.5\r\nPassiveTameIntervalMultiplier=0.5\r\nBabyCuddleIntervalMultiplier=0.0232\r\nBabyMatureSpeedMultiplier=50\r\nEggHatchSpeedMultiplier=10\r\nIncubationSpeedMultiplier=0.5\r\nLayEggIntervalMultiplier=0.5\r\nMatingIntervalMultiplier=0.1\r\nMatingSpeedMultiplier=5\r\nImprintAmountMultiplier=1.1",
+					"text": "",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -332,8 +332,8 @@
 						"b": 0.019608000293374062,
 						"a": 0.7019609808921814
 					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/server_rates.png?raw=true"
 				},
 				"panel2":
 				{
@@ -516,9 +516,9 @@
 				"layout": "NewEnumerator0",
 				"panel1":
 				{
-					"title": "Hey gamers, here's the lowdown on our rules – follow 'em, or prepare for a showdown!",
+					"title": "",
 					"titlejustification": "Left",
-					"text": "(*) See that? It's like the Bat-Signal for serious rules. Don't mess with those, capiche?\r\n\r\nAdmins hold the rulebook, so respect 'em. Trying to pull a fast one behind an admin's back? That's a no-go.\r\n\r\n# Do’s\r\n\r\n* (*) Join Discord at https://bit.ly/arasark.\r\n* Speak English, even your in-game and Discord convos.\r\n* Name yourself properly, or face character recreation – progress be damned.\r\n* Tribe up, even if you're a lone wolf. You and your lonesome can be in it together.\r\n* Fun fact: Fun is mandatory!\r\n* (*) Bonus rule: Deck out your base with a coloured flag. Monthly color change (Discord's the scoop). Miss the memo?  Admins might assume you've quit, and give your base an unplanned makeover – and by makeover, we mean a gentle nudge towards oblivion.\r\n\r\n# Don’ts\r\n\r\n* (*) No abuse, hate speech, or racism. That includes Tribe and Character names – keep it classy.\r\n* (*) No spam or trolling. Save the shenanigans for another realm.\r\n* (*) Don't be a jerk. It's a universal rule, not just in the fine print.\r\n* (*) Wild dinos on a leash, please. Don't wreck other players' bases with dino drama.\r\n* No dino daycare when you're offline – admins might put 'em to sleep permanently.\r\n* (*) Don't play Jenga with public spaces. Obelisks, boss platforms, and artifact caves need their breathing room.\r\n* Space is golden. Build your ark empire without photobombing others.\r\n* No land hoarding – this ain't Ark's real estate market. Play nice; no wipeout excuses.\r\n* Tribe bases, outposts – keep it chill. Size matters; don't overdo it. \r\n* Insta-bans for rule-breaking VIPs – hackers and trash talkers, you're on the express lane outta here!",
+					"text": "",
 					"textjustification": "Left",
 					"backgroundcolor":
 					{
@@ -527,8 +527,8 @@
 						"b": 0.019608000293374062,
 						"a": 0.7019609808921814
 					},
-					"usecustombackgroundimage": false,
-					"custombackgroundimageurl": ""
+					"usecustombackgroundimage": true,
+					"custombackgroundimageurl": "https://github.com/Aras-Ark/webassets/blob/main/images/asm/panels/server_rules.png?raw=true"
 				},
 				"panel2":
 				{
@@ -1310,7 +1310,7 @@
 		{
 			"onplayerlogon": true,
 			"fornewplayersonly": false,
-			"onnextplayerlogonversion": 6
+			"onnextplayerlogonversion": 7
 		},
 		"miscsettings":
 		{
